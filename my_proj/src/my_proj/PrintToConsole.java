@@ -12,6 +12,6 @@ public class PrintToConsole {
 	}
 
 	protected String test(int x) {
-		return "it was: " + x;
+		return "It was: " + x;
 	}
 }
